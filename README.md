@@ -4,7 +4,11 @@
 
 </div>
 
+<div align="center">
+
 ![Programa-Tarefas - Curso JavaScript em NodeJs](images/rincko_dev.jpg)
+
+</div>
 
 <div align="center">
 
@@ -17,10 +21,14 @@ A execução ocorre pelo terminal, utilizando o comando `npm start`. Será apres
 
 Projeto realizado em: 12/02/2026.
 
+<div align="center">
+
 ![Programa-Tarefas - Menu](images/menu.png)
 ![Programa-Tarefas - Criação de tarefas](images/create.png)
 ![Programa-Tarefas - Listagem de tarefas](images/list.png)
 ![Programa-Tarefas - Atualização de tarefas](images/update.png)
+
+</div>
 
 <div align="center">
 
@@ -48,3 +56,5 @@ Projeto realizado em: 12/02/2026.
 **Canal Rincko Dev**
 
 [PlayList do Curso JavaScript em NodeJs](https://www.youtube.com/watch?v=lQAJ-T1QTYc&list=PL9tY_tDo_Q0C0hs1aGgtJbEH1EBlyzZdG&index=1)
+
+</div>
