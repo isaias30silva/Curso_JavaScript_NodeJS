@@ -55,6 +55,9 @@ Projeto realizado em: 12/02/2026.
 
 **Canal Rincko Dev**
 
+![Logo Youtube - Canal Rincko Dev](images/rincko_youtube.jpg)
+
+
 [PlayList do Curso JavaScript em NodeJs](https://www.youtube.com/watch?v=lQAJ-T1QTYc&list=PL9tY_tDo_Q0C0hs1aGgtJbEH1EBlyzZdG&index=1)
 
 </div>
