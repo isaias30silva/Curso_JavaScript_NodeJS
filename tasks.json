@@ -1,0 +1,32 @@
+[
+  {
+    "name": "estudar javascript",
+    "status": "em andamento",
+    "createdAt": "2026-02-12T17:56:19.373Z"
+  },
+  {
+    "name": "estudar bd",
+    "status": "concluída",
+    "createdAt": "2026-02-12T18:27:30.763Z"
+  },
+  {
+    "name": "estudar node",
+    "status": "concluída",
+    "createdAt": "2026-02-12T18:58:48.442Z"
+  },
+  {
+    "name": "estudar hmtl, css e javascript",
+    "status": "em andamento",
+    "createdAt": "2026-02-12T19:00:44.906Z"
+  },
+  {
+    "name": "estudar java",
+    "status": "cancelada",
+    "createdAt": "2026-02-12T19:04:26.277Z"
+  },
+  {
+    "name": "estudar sql",
+    "status": "em andamento",
+    "createdAt": "2026-02-12T19:09:36.926Z"
+  }
+]
